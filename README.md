@@ -46,6 +46,6 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 **Vansh Gandhi**
-- Portfolio: https://vansh-portfolio.edgeone.app
+- Portfolio: https://vansh-portfolio-l2t1pe8jdx.edgeone.app/
 - LinkedIn: https://www.linkedin.com/in/vansh-gandhi-974639288
 - GitHub: https://github.com/vansh2107
